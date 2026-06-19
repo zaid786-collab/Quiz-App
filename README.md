@@ -1,16 +1,87 @@
-# React + Vite
+# 🎯 React Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Quiz Application built using **React.js** and **Vite**. Users can answer multiple-choice questions, receive instant feedback, and view their final score at the end of the quiz.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://quiz-app-drab-iota-14.vercel.app
 
-## React Compiler
+## 📂 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://github.com/zaid786-collab/Quiz-App
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Multiple-choice quiz questions
+* Instant answer validation
+* Score tracking
+* Responsive design for desktop and mobile
+* Clean and user-friendly interface
+* Fast performance with Vite
+
+## 🛠️ Tech Stack
+
+* React.js
+* JavaScript (ES6+)
+* CSS3
+* Vite
+* Git & GitHub
+* Vercel
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/zaid786-collab/Quiz-App.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Quiz-App
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 🏗️ Build for Production
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+## 📚 What I Learned
+
+While building this project, I gained hands-on experience with:
+
+* React Components
+* State Management using Hooks
+* Event Handling
+* Conditional Rendering
+* Responsive UI Design
+* Git & GitHub Workflow
+* Deployment using Vercel
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome. Feel free to fork the repository and submit improvements.
+
+## 📄 License
+
+This project is licensed under the MIT License.
